@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\lalbi\Downloads\SampleApp\flutter_ffi_test-main\android\app\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.

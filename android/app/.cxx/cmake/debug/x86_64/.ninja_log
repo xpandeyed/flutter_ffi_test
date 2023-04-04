@@ -1,0 +1,5 @@
+# ninja log v5
+1	206	702316747	CMakeFiles/api.dir/api.cpp.o	d5f02591f4a90dfa
+207	379	702316747	C:/Users/lalbi/Downloads/SampleApp/flutter_ffi_test-main/build/app/intermediates/cmake/debug/obj/x86_64/libapi.so	43099e13c14ed13b
+3	94	702317034	CMakeFiles/api.dir/api.cpp.o	d5f02591f4a90dfa
+94	250	702317035	C:/Users/lalbi/Downloads/SampleApp/flutter_ffi_test-main/build/app/intermediates/cmake/debug/obj/x86_64/libapi.so	43099e13c14ed13b

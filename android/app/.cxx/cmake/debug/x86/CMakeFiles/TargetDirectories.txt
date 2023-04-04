@@ -1,0 +1,3 @@
+C:/Users/lalbi/Downloads/SampleApp/flutter_ffi_test-main/android/app/.cxx/cmake/debug/x86/CMakeFiles/api.dir
+C:/Users/lalbi/Downloads/SampleApp/flutter_ffi_test-main/android/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/lalbi/Downloads/SampleApp/flutter_ffi_test-main/android/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

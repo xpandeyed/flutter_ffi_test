@@ -1,0 +1,49 @@
+{
+  "stringTable": {
+    "0": "C:/Users/lalbi/Downloads/SampleApp/flutter_ffi_test-main/android/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/lalbi/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/lalbi/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dapi_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "null"
+  },
+  "buildFiles": [
+    "C:\\Users\\lalbi\\Downloads\\SampleApp\\flutter_ffi_test-main\\libs\\CMakeLists.txt",
+    "C:\\Users\\lalbi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\lalbi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\lalbi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\lalbi\\Downloads\\SampleApp\\flutter_ffi_test-main\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\lalbi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\lalbi\\Downloads\\SampleApp\\flutter_ffi_test-main\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "api-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\lalbi\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\lalbi\\Downloads\\SampleApp\\flutter_ffi_test-main\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api",
+      "buildType": "debug",
+      "toolchain": "4111204864",
+      "abi": "armeabi-v7a",
+      "artifactName": "api",
+      "files": [
+        {
+          "src": "C:\\Users\\lalbi\\Downloads\\SampleApp\\flutter_ffi_test-main\\libs\\api.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\lalbi\\Downloads\\SampleApp\\flutter_ffi_test-main\\libs\\exports.def",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\lalbi\\Downloads\\SampleApp\\flutter_ffi_test-main\\build\\app\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libapi.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "4111204864": {
+      "cppCompilerExecutable": "C:\\Users\\lalbi\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

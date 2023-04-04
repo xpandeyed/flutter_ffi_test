@@ -1,0 +1,7 @@
+Executable : C:\Users\lalbi\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\lalbi\Downloads\SampleApp\flutter_ffi_test-main\android\app\.cxx\cmake\debug\armeabi-v7a
+api
+jvmArgs : 
+
